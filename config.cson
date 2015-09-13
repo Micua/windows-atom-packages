@@ -1,0 +1,29 @@
+"*":
+  "exception-reporting":
+    userId: "3d6e915a-2192-80b9-eeba-9355ce33b472"
+  welcome:
+    showOnStartup: false
+  core:
+    autoHideMenuBar: true
+    themes: [
+      "one-light-ui"
+      "chester-atom-syntax"
+    ]
+    disabledPackages: [
+      "vim-mode"
+      "language-jsx"
+      "metrics"
+    ]
+  editor:
+    invisibles: {}
+    fontFamily: "Source Code Pro"
+    fontSize: 16
+    tabLength: 4
+  "one-light-ui": {}
+  "tool-bar":
+    position: "Left"
+  docblockr: {}
+  "atom-terminal":
+    app: "D:\\Develop\\Git\\git-bash.exe"
+  "terminal-panel":
+    shell: "D:\\Develop\\Git\\git-bash.exe"

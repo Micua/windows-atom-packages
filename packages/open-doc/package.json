@@ -1,0 +1,41 @@
+{
+  "name": "open-doc",
+  "main": "./lib/open-doc",
+  "version": "0.3.7",
+  "description": "Opens the current file in a browser.",
+  "activationCommands": {
+    "atom-workspace": "open-doc:open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/190n/open-doc.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# open-doc package\n\nOpens the current HTML file in a browser.",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/190n/open-doc/issues"
+  },
+  "homepage": "https://github.com/190n/open-doc#readme",
+  "_id": "open-doc@0.3.7",
+  "_shasum": "5ece246683947170d181ecbb837ab48215d52af4",
+  "_resolved": "file:..\\d-115813-1212-1jmuzwb\\package.tgz",
+  "_from": "..\\d-115813-1212-1jmuzwb\\package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib\\open-doc.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

@@ -1,0 +1,12 @@
+
+.apm
+.node-gyp
+.npm
+app-*
+bin
+compile-cache
+dev
+storage
+app.ico
+SquirrelSetup.log
+Update.exe
